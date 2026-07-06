@@ -1,0 +1,50 @@
+[
+  {
+    "case_id": "TC-001",
+    "title": "Yol bakım talebi dilekçesi",
+    "document_text": "T.C. ÖRNEK BELEDİYESİ BAŞKANLIĞINA\n\nKonu: Yol bakım ve onarım talebi\n\nBelediyeniz sınırları içinde bulunan Cumhuriyet Mahallesi 145. Sokak üzerinde yol zemininin bozuk olması nedeniyle araç ve yaya ulaşımında sorun yaşanmaktadır. Gerekli bakım ve onarım çalışmalarının yapılmasını arz ederim.\n\nAd Soyad: Ahmet Yılmaz\nAdres: Cumhuriyet Mahallesi 145. Sokak No: 12\nTelefon: 05xx xxx xx xx\nTarih: 04.07.2026\nİmza\n",
+    "expected_document_type": "Şikâyet / talep",
+    "expected_unit": "Fen İşleri Müdürlüğü",
+    "expected_draft_keywords": [
+      "inceleme",
+      "ilgili birim",
+      "bilgi"
+    ]
+  },
+  {
+    "case_id": "TC-002",
+    "title": "Personel izin talebi",
+    "document_text": "T.C. ÖRNEK BELEDİYESİ\nİnsan Kaynakları Müdürlüğüne\n\nKonu: Yıllık izin talebi\n\n15.08.2026 - 22.08.2026 tarihleri arasında yıllık izin kullanmak istiyorum. Gereğini arz ederim.\n\nAd Soyad: Ayşe Demir\nBirim: Bilgi İşlem Müdürlüğü\nTarih: 04.07.2026\nİmza\n",
+    "expected_document_type": "Personel izin / görevlendirme",
+    "expected_unit": "İnsan Kaynakları Müdürlüğü",
+    "expected_draft_keywords": [
+      "izin",
+      "personel",
+      "değerlendirme"
+    ]
+  },
+  {
+    "case_id": "TC-003",
+    "title": "Malzeme satın alma talebi",
+    "document_text": "T.C. ÖRNEK BELEDİYESİ BAŞKANLIĞINA\n\nKonu: Malzeme temini talebi\n\nMüdürlüğümüzde kullanılmak üzere 10 adet dizüstü bilgisayar, 5 adet yazıcı ve gerekli sarf malzemelerinin temin edilmesi hususunda gereğini arz ederim.\n\nBirim: Bilgi İşlem Müdürlüğü\nTarih: 04.07.2026\n",
+    "expected_document_type": "Satın alma / malzeme talebi",
+    "expected_unit": "Destek Hizmetleri Müdürlüğü",
+    "expected_draft_keywords": [
+      "malzeme",
+      "temin",
+      "ilgili birim"
+    ]
+  },
+  {
+    "case_id": "TC-004",
+    "title": "Bilgi edinme başvurusu",
+    "document_text": "T.C. ÖRNEK BELEDİYESİ BAŞKANLIĞINA\n\nKonu: Bilgi edinme başvurusu\n\n4982 sayılı Bilgi Edinme Hakkı Kanunu kapsamında, 2025 yılında mahallemizde yapılan park bakım ve yenileme çalışmalarına ilişkin bilgi verilmesini arz ederim.\n\nAd Soyad: Mehmet Kaya\nE-posta: mehmet@example.com\nTarih: 04.07.2026\n",
+    "expected_document_type": "Bilgi edinme başvurusu",
+    "expected_unit": "Yazı İşleri Müdürlüğü",
+    "expected_draft_keywords": [
+      "bilgi edinme",
+      "başvuru",
+      "ilgili"
+    ]
+  }
+]

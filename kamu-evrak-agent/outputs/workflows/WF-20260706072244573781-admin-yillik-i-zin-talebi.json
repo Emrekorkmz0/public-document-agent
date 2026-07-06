@@ -1,0 +1,127 @@
+{
+  "workflow_id": "WF-20260706072244573781-admin-yillik-i-zin-talebi",
+  "run_id": "RUN-20260706072121033148-admin-0c0f345c3e",
+  "created_at": "2026-07-06T07:22:44",
+  "updated_at": "2026-07-06T07:22:44",
+  "created_by": "admin",
+  "created_by_role": "admin",
+  "status": "Onay Bekliyor",
+  "assigned_unit": "İnsan Kaynakları Müdürlüğü",
+  "priority": "Normal",
+  "document_type": "dilekçe",
+  "risk_level": "Orta",
+  "summary": "Ayşe Demir tarafından iletilen evrak, Yıllık İzin Talebi konusuna ilişkindir. Evrakta öne çıkan talep/işlem: 2026 tarihleri arasında yıllık izin kullanması hususunda gereğini arz ederim.",
+  "subject": "Yıllık İzin Talebi",
+  "file_meta": {
+    "file_name": "personel_izin_talebi.txt",
+    "file_type": "text/plain",
+    "page_count": null
+  },
+  "document_text": "Konu: Yıllık İzin Talebi\n\nİnsan Kaynakları Müdürlüğüne\n\nKurumunuzda görev yapmakta olan personelin 15.07.2026 - 22.07.2026 tarihleri arasında yıllık izin kullanması hususunda gereğini arz ederim.\n\nAdı Soyadı: Ayşe Demir\nBirim: Bilgi İşlem Müdürlüğü\nİmza",
+  "analysis": {
+    "document_type": "dilekçe",
+    "confidence": 0.76,
+    "risk_level": "Orta",
+    "summary": "Ayşe Demir tarafından iletilen evrak, Yıllık İzin Talebi konusuna ilişkindir. Evrakta öne çıkan talep/işlem: 2026 tarihleri arasında yıllık izin kullanması hususunda gereğini arz ederim.",
+    "extracted_fields": {
+      "sender": "Ayşe Demir",
+      "receiver": "İnsan Kaynakları Müdürlüğüne",
+      "date": "15.07.2026",
+      "subject": "Yıllık İzin Talebi",
+      "document_number": null,
+      "request_or_action": "2026 tarihleri arasında yıllık izin kullanması hususunda gereğini arz ederim.",
+      "signature_present": true,
+      "contact_info_present": false,
+      "address_present": false
+    },
+    "missing_information": [
+      "Telefon veya e-posta iletişim bilgisi tespit edilemedi."
+    ],
+    "user_recommendation": "Yetkili personel kontrolü önerilir."
+  },
+  "routing": {
+    "recommended_unit": "İnsan Kaynakları Müdürlüğü",
+    "confidence": 0.75,
+    "reason": "Evrak metninde İnsan Kaynakları Müdürlüğü görev alanıyla ilişkili ifadeler tespit edildi.",
+    "alternative_units": [
+      "Yazı İşleri Müdürlüğü"
+    ]
+  },
+  "draft": {
+    "draft_type": "Ön inceleme yazısı",
+    "subject": "Yıllık İzin Talebi",
+    "body": "İlgili evrakın yetkili personel tarafından incelenmesi önerilir.",
+    "closing": "Bilgilerinize rica ederim.",
+    "requires_human_approval": true
+  },
+  "sources": [
+    {
+      "chunk_id": "doc008_chunk000",
+      "title": "Ust Yazi Sablonu",
+      "content": "Konu: [Konu Başlığı]\nİlgi evrak kapsamında belirtilen hususların değerlendirilmesi amacıyla gerekli incelemenin yapılması ve sonucundan kurumumuza bilgi verilmesi hususunda gereğini arz/rica ederim.\nEk: [Varsa ekler]\nDağıtım: [İlgili birimler]",
+      "file_name": "ust_yazi_sablonu.txt",
+      "source_type": "yazı şablonu",
+      "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\ust_yazi_sablonu.txt",
+      "chunk_index": 0,
+      "score": 0.5601785182952881,
+      "backend": "numpy"
+    },
+    {
+      "chunk_id": "doc006_chunk000",
+      "title": "Ic Yonlendirme Sablonu",
+      "content": "Konu: Evrak Yönlendirmesi\nKurumumuza iletilen başvuru incelenmiş olup, başvuru içeriğinin [İlgili Birim] görev alanıyla ilişkili olduğu değerlendirilmiştir. Söz konusu evrakın ilgili birim tarafından incelenerek gerekli işlemlerin yürütülmesi hususunda gereğini rica ederim.",
+      "file_name": "ic_yonlendirme_sablonu.txt",
+      "source_type": "yazı şablonu",
+      "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\ic_yonlendirme_sablonu.txt",
+      "chunk_index": 0,
+      "score": 0.508033275604248,
+      "backend": "numpy"
+    },
+    {
+      "chunk_id": "doc004_chunk000",
+      "title": "Cevap Yazisi Sablonu",
+      "content": "Konu: [Başvuru Konusu] Hakkında\nİlgi başvurunuzda belirtilen hususlar incelenmek üzere ilgili birime iletilmiştir. Başvurunuza konu talep hakkında gerekli değerlendirme yapılacak olup, süreç sonucunda tarafınıza ayrıca bilgi verilecektir.\nBilgilerinize rica ederim.",
+      "file_name": "cevap_yazisi_sablonu.txt",
+      "source_type": "yazı şablonu",
+      "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\cevap_yazisi_sablonu.txt",
+      "chunk_index": 0,
+      "score": 0.4589178264141083,
+      "backend": "numpy"
+    },
+    {
+      "chunk_id": "doc005_chunk000",
+      "title": "Eksik Bilgi Talep Sablonu",
+      "content": "Konu: Eksik Bilgi ve Belge Talebi\nİlgi başvurunuzun incelenmesi neticesinde, işlem yapılabilmesi için bazı bilgilerin tamamlanmasına ihtiyaç duyulduğu değerlendirilmiştir. Eksik bilgi ve belgelerin kurumumuza iletilmesinin ardından başvurunuz yeniden değerlendirmeye alınacaktır.\nBilgilerinize rica ederim.",
+      "file_name": "eksik_bilgi_talep_sablonu.txt",
+      "source_type": "yazı şablonu",
+      "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\eksik_bilgi_talep_sablonu.txt",
+      "chunk_index": 0,
+      "score": 0.4446128010749817,
+      "backend": "numpy"
+    },
+    {
+      "chunk_id": "doc014_chunk000",
+      "title": "Insan Kaynaklari",
+      "content": "İnsan Kaynakları Müdürlüğü; personel izinleri, görevlendirme, atama, özlük işlemleri, rapor, hizmet içi eğitim, mesai ve çalışanlara ilişkin idari süreçlerle ilgilenir. Evrakta personel adı, görev yeri, izin tarihi, görevlendirme talebi veya özlük hakkı ifadeleri geçiyorsa İnsan Kaynakları Müdürlüğü önerilebilir.",
+      "file_name": "insan_kaynaklari.txt",
+      "source_type": "birim görev tanımı",
+      "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\insan_kaynaklari.txt",
+      "chunk_index": 0,
+      "score": 0.4174652397632599,
+      "backend": "numpy"
+    }
+  ],
+  "history": [
+    {
+      "timestamp": "2026-07-06T07:22:44",
+      "user": "admin",
+      "role": "admin",
+      "action": "workflow_created",
+      "from_status": null,
+      "to_status": "Onay Bekliyor",
+      "note": "Taslak onay sürecine aktarılmıştır."
+    }
+  ],
+  "unit_notes": [],
+  "approval_notes": []
+}

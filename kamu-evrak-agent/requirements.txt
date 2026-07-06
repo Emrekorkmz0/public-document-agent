@@ -1,0 +1,13 @@
+streamlit
+pypdf
+python-docx
+scikit-learn
+numpy
+sentence-transformers
+python-dotenv
+openai
+
+# Opsiyonel: Sistem destekliyorsa FAISS ile daha hızlı vektör arama yapılır.
+# Windows + Python 3.13 ortamlarında faiss-cpu kurulumu sorun çıkarabilir.
+# Böyle bir durumda bu satırı yorumda bırak; sistem numpy fallback ile çalışır.
+# faiss-cpu

@@ -1,0 +1,3 @@
+Konu: Ön İnceleme Değerlendirmesi
+
+Yapılan ön incelemede evrakın [evrak türü] niteliğinde olduğu, işlem yapılabilmesi için ilgili birim değerlendirmesine ihtiyaç bulunduğu ve nihai kararın yetkili makam tarafından verilmesi gerektiği değerlendirilmiştir.

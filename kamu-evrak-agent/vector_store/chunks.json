@@ -1,0 +1,173 @@
+[
+  {
+    "chunk_id": "doc000_chunk000",
+    "title": "Bilgi Edinme Basvurusu Kurallari",
+    "content": "Bilgi edinme başvuruları; başvuranın kimliği, iletişim bilgileri, talep edilen bilgi veya belgenin açık tanımı ve başvurunun hangi kurumdan istendiği bakımından değerlendirilmelidir. Talebin kapsamı belirsizse, başvurandan talebini netleştirmesi istenebilir. Talep edilen bilgi başka bir birimin görev alanına giriyorsa evrak ilgili birime yönlendirilmeli ve süreç hakkında başvuru sahibine anlaşılır bilgilendirme yapılmalıdır.",
+    "file_name": "bilgi_edinme_basvurusu_kurallari.txt",
+    "source_type": "mevzuat / yazışma kuralı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\regulations\\bilgi_edinme_basvurusu_kurallari.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc001_chunk000",
+    "title": "Kvkk Ve Kisisel Veri Notu",
+    "content": "Evrak işleme sistemlerinde kişisel veriler dikkatle ele alınmalıdır. Başvuru sahibinin adı, soyadı, telefon numarası, adresi, T.C. kimlik numarası, imzası veya özel nitelikli bilgileri gereksiz şekilde görünür bırakılmamalıdır. Log kayıtlarında kişisel veriler maskelenmeli, test veri setlerinde gerçek kişiler yerine sentetik veya anonimleştirilmiş bilgiler kullanılmalıdır. Sistem, kullanıcıya kişisel veri içeren alanlarda insan kontrolü gerektiğini hatırlatmalıdır.",
+    "file_name": "kvkk_ve_kisisel_veri_notu.txt",
+    "source_type": "mevzuat / yazışma kuralı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\regulations\\kvkk_ve_kisisel_veri_notu.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc002_chunk000",
+    "title": "Resmi Yazisma Kurallari",
+    "content": "Resmî yazışmalarda belgenin konusu açık, kısa ve anlaşılır yazılmalıdır. Yazı dili sade, resmî ve tarafsız olmalıdır. Gereksiz ayrıntılardan kaçınılmalı; talep, işlem veya bilgilendirme net biçimde ifade edilmelidir. Yazışmalarda ilgi, konu, ek, dağıtım ve imza alanları kurum uygulamalarına uygun düzenlenir. Kesin hüküm içeren ifadeler yetkili makam onayı olmadan kullanılmamalıdır.",
+    "file_name": "resmi_yazisma_kurallari.txt",
+    "source_type": "mevzuat / yazışma kuralı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\regulations\\resmi_yazisma_kurallari.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc003_chunk000",
+    "title": "Resmi Yazisma Yonetmeligi Ozet",
+    "content": "Resmî yazışma süreçlerinde belge; sayı, konu, tarih, muhatap, ilgi, metin, imza, ek ve dağıtım gibi bölümlerle düzenli ve izlenebilir biçimde hazırlanmalıdır. Yazı dili açık, sade, resmî ve gereksiz yoruma kapalı olmalıdır. Kurum adına işlem tesis eden yazışmalarda nihai karar yetkili personel veya makam tarafından verilir. Yapay zeka sistemi yalnızca taslak ve öneri üretmeli, yazının kesin hüküm veya bağlayıcı karar içerip içermediği insan tarafından kontrol edilmelidir.\nGelen evrakın işleme alınması için gönderen bilgisi, tarih, konu, imza veya kimlik doğrulama niteliği taşıyan bilgiler, iletişim bilgileri ve gerekiyorsa ek belgeler kontrol edilmelidir. Eksik bilgi bulunan başvurularda doğrudan kesin cevap vermek yerine eksik bilgi talebi veya ön inceleme yazısı hazırlanması daha güvenli bir yaklaşımdır.",
+    "file_name": "resmi_yazisma_yonetmeligi_ozet.txt",
+    "source_type": "mevzuat / yazışma kuralı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\regulations\\resmi_yazisma_yonetmeligi_ozet.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc003_chunk001",
+    "title": "Resmi Yazisma Yonetmeligi Ozet",
+    "content": "eler kontrol edilmelidir. Eksik bilgi bulunan başvurularda doğrudan kesin cevap vermek yerine eksik bilgi talebi veya ön inceleme yazısı hazırlanması daha güvenli bir yaklaşımdır.\nCevap yazılarında başvuruya konu talebin alındığı, ilgili birime yönlendirildiği, inceleme yapılacağı veya işlem sonucunun ayrıca bildirileceği açık şekilde ifade edilmelidir. Kurum içi yönlendirmelerde evrakın hangi gerekçeyle ilgili birime sevk edildiği belirtilmelidir. Kurumlar arası yazışmalarda arz/rica kullanımı muhatap hiyerarşisine ve yazışma bağlamına göre dikkatle seçilmelidir.",
+    "file_name": "resmi_yazisma_yonetmeligi_ozet.txt",
+    "source_type": "mevzuat / yazışma kuralı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\regulations\\resmi_yazisma_yonetmeligi_ozet.txt",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "doc003_chunk002",
+    "title": "Resmi Yazisma Yonetmeligi Ozet",
+    "content": "hangi gerekçeyle ilgili birime sevk edildiği belirtilmelidir. Kurumlar arası yazışmalarda arz/rica kullanımı muhatap hiyerarşisine ve yazışma bağlamına göre dikkatle seçilmelidir.",
+    "file_name": "resmi_yazisma_yonetmeligi_ozet.txt",
+    "source_type": "mevzuat / yazışma kuralı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\regulations\\resmi_yazisma_yonetmeligi_ozet.txt",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "doc004_chunk000",
+    "title": "Cevap Yazisi Sablonu",
+    "content": "Konu: [Başvuru Konusu] Hakkında\nİlgi başvurunuzda belirtilen hususlar incelenmek üzere ilgili birime iletilmiştir. Başvurunuza konu talep hakkında gerekli değerlendirme yapılacak olup, süreç sonucunda tarafınıza ayrıca bilgi verilecektir.\nBilgilerinize rica ederim.",
+    "file_name": "cevap_yazisi_sablonu.txt",
+    "source_type": "yazı şablonu",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\cevap_yazisi_sablonu.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc005_chunk000",
+    "title": "Eksik Bilgi Talep Sablonu",
+    "content": "Konu: Eksik Bilgi ve Belge Talebi\nİlgi başvurunuzun incelenmesi neticesinde, işlem yapılabilmesi için bazı bilgilerin tamamlanmasına ihtiyaç duyulduğu değerlendirilmiştir. Eksik bilgi ve belgelerin kurumumuza iletilmesinin ardından başvurunuz yeniden değerlendirmeye alınacaktır.\nBilgilerinize rica ederim.",
+    "file_name": "eksik_bilgi_talep_sablonu.txt",
+    "source_type": "yazı şablonu",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\eksik_bilgi_talep_sablonu.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc006_chunk000",
+    "title": "Ic Yonlendirme Sablonu",
+    "content": "Konu: Evrak Yönlendirmesi\nKurumumuza iletilen başvuru incelenmiş olup, başvuru içeriğinin [İlgili Birim] görev alanıyla ilişkili olduğu değerlendirilmiştir. Söz konusu evrakın ilgili birim tarafından incelenerek gerekli işlemlerin yürütülmesi hususunda gereğini rica ederim.",
+    "file_name": "ic_yonlendirme_sablonu.txt",
+    "source_type": "yazı şablonu",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\ic_yonlendirme_sablonu.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc007_chunk000",
+    "title": "On Inceleme Notu Sablonu",
+    "content": "Konu: Ön İnceleme Değerlendirmesi\nYapılan ön incelemede evrakın [evrak türü] niteliğinde olduğu, işlem yapılabilmesi için ilgili birim değerlendirmesine ihtiyaç bulunduğu ve nihai kararın yetkili makam tarafından verilmesi gerektiği değerlendirilmiştir.",
+    "file_name": "on_inceleme_notu_sablonu.txt",
+    "source_type": "yazı şablonu",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\on_inceleme_notu_sablonu.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc008_chunk000",
+    "title": "Ust Yazi Sablonu",
+    "content": "Konu: [Konu Başlığı]\nİlgi evrak kapsamında belirtilen hususların değerlendirilmesi amacıyla gerekli incelemenin yapılması ve sonucundan kurumumuza bilgi verilmesi hususunda gereğini arz/rica ederim.\nEk: [Varsa ekler]\nDağıtım: [İlgili birimler]",
+    "file_name": "ust_yazi_sablonu.txt",
+    "source_type": "yazı şablonu",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\templates\\ust_yazi_sablonu.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc009_chunk000",
+    "title": "Basin Halkla Iliskiler",
+    "content": "Basın ve Halkla İlişkiler Müdürlüğü; vatandaş iletişimi, duyuru, bilgilendirme, medya, sosyal medya, halkla ilişkiler, etkinlik duyurusu ve kamuoyu iletişimi süreçleriyle ilgilenir. Evrakta kamu bilgilendirmesi, vatandaş memnuniyeti veya duyuru ihtiyacı öne çıkıyorsa bu birim değerlendirilebilir.",
+    "file_name": "basin_halkla_iliskiler.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\basin_halkla_iliskiler.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc010_chunk000",
+    "title": "Belediye Birimleri",
+    "content": "Fen İşleri Müdürlüğü: Yol, asfalt, kaldırım, altyapı, bakım, onarım ve teknik saha inceleme işlerinden sorumludur.\nİnsan Kaynakları Müdürlüğü: Personel, izin, görevlendirme, özlük ve atama işlemleriyle ilgilenir.\nDestek Hizmetleri Müdürlüğü: Satın alma, malzeme talebi, hizmet alımı, araç ve ekipman destek süreçlerini yürütür.\nMali Hizmetler Müdürlüğü: Bütçe, ödeme, fatura, tahakkuk ve mali işlemlerden sorumludur.\nBilgi İşlem Müdürlüğü: Yazılım, donanım, internet, sistem, veri ve EBYS destek talepleriyle ilgilenir.\nBasın ve Halkla İlişkiler Müdürlüğü: Vatandaş iletişimi, duyurular, basın ve sosyal medya süreçlerinden sorumludur.\nYazı İşleri Müdürlüğü: Evrak kayıt, yazışma koordinasyonu, dağıtım ve kurumlar arası resmi yazışmaların yürütülmesini sağlar.",
+    "file_name": "belediye_birimleri.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\belediye_birimleri.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc011_chunk000",
+    "title": "Bilgi Islem",
+    "content": "Bilgi İşlem Müdürlüğü; yazılım, donanım, bilgisayar, internet, ağ, sunucu, veri, siber güvenlik, EBYS, kullanıcı hesabı ve teknik destek talepleriyle ilgilenir. Evrakta sistem arızası, yazılım talebi veya dijital altyapı ihtiyacı varsa Bilgi İşlem Müdürlüğü görev alanı değerlendirilebilir.",
+    "file_name": "bilgi_islem.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\bilgi_islem.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc012_chunk000",
+    "title": "Destek Hizmetleri",
+    "content": "Destek Hizmetleri Müdürlüğü; satın alma, malzeme talebi, hizmet alımı, bakım sözleşmeleri, araç, ekipman, teklif toplama, piyasa araştırması ve lojistik destek işlemleriyle ilgilenir. Evrakta malzeme listesi, teknik ihtiyaç, teklif veya hizmet alımı talebi varsa Destek Hizmetleri Müdürlüğü görev alanı değerlendirilebilir.",
+    "file_name": "destek_hizmetleri.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\destek_hizmetleri.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc013_chunk000",
+    "title": "Fen Isleri",
+    "content": "Fen İşleri Müdürlüğü; yol, asfalt, kaldırım, bakım, onarım, altyapı, parke, kanal, yağmur suyu hattı, çukur, yol güvenliği ve saha incelemesi gerektiren teknik taleplerle ilgilenir. Vatandaşın mahalle, sokak, cadde veya açık adres belirterek yol bakım talebinde bulunması hâlinde evrak Fen İşleri Müdürlüğü görev alanına yakın değerlendirilir.",
+    "file_name": "fen_isleri.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\fen_isleri.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc014_chunk000",
+    "title": "Insan Kaynaklari",
+    "content": "İnsan Kaynakları Müdürlüğü; personel izinleri, görevlendirme, atama, özlük işlemleri, rapor, hizmet içi eğitim, mesai ve çalışanlara ilişkin idari süreçlerle ilgilenir. Evrakta personel adı, görev yeri, izin tarihi, görevlendirme talebi veya özlük hakkı ifadeleri geçiyorsa İnsan Kaynakları Müdürlüğü önerilebilir.",
+    "file_name": "insan_kaynaklari.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\insan_kaynaklari.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc015_chunk000",
+    "title": "Mali Hizmetler",
+    "content": "Mali Hizmetler Müdürlüğü; ödeme, bütçe, fatura, tahakkuk, harcama, muhasebe, mali rapor, ödenek ve gelir-gider süreçleriyle ilgilenir. Evrakta ödeme yapılması, fatura işlenmesi veya bütçe aktarımı gibi ifadeler bulunuyorsa Mali Hizmetler Müdürlüğü önerilebilir.",
+    "file_name": "mali_hizmetler.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\mali_hizmetler.txt",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "doc016_chunk000",
+    "title": "Yazi Isleri",
+    "content": "Yazı İşleri Müdürlüğü; gelen evrak kaydı, evrak dağıtımı, kurumlar arası yazışma, sayı, konu, ilgi, dağıtım, üst yazı ve genel evrak akışının koordinasyonuyla ilgilenir. Evrakın hangi birime gideceği net değilse veya ön kayıt gerekiyorsa Yazı İşleri Müdürlüğü önerilebilir.",
+    "file_name": "yazi_isleri.txt",
+    "source_type": "birim görev tanımı",
+    "source_path": "C:\\Users\\90545\\Desktop\\kamu-evrak-agent_v15\\data\\unit_definitions\\yazi_isleri.txt",
+    "chunk_index": 0
+  }
+]

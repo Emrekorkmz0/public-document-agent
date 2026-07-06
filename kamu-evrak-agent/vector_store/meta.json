@@ -1,0 +1,6 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "chunk_count": 19,
+  "chunk_size": 900,
+  "chunk_overlap": 180
+}

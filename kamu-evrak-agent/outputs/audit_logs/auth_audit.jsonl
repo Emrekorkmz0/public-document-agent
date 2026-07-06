@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-06T07:17:55", "action": "login", "username": "", "status": "failed", "detail": "invalid_credentials"}
+{"timestamp": "2026-07-06T07:18:01", "action": "login", "username": "admin", "status": "success", "detail": ""}
+{"timestamp": "2026-07-06T07:53:34", "action": "login", "username": "admin", "status": "success", "detail": ""}

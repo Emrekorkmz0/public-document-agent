@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "full_name": "Sistem Yöneticisi",
+      "role": "admin",
+      "is_active": true,
+      "created_at": "2026-07-06T07:17:44",
+      "salt": "020a0fa54aa4377e11c969d621d0b773",
+      "password_hash": "a917c88984359237f3dc37b811c9b6d42811e6490039ab88531c0ca232a6196c"
+    },
+    {
+      "username": "yaziisleri",
+      "full_name": "Yazı İşleri Personeli",
+      "role": "yazi_isleri",
+      "is_active": true,
+      "created_at": "2026-07-06T07:17:44",
+      "salt": "70623349f7462a9e5fbad410748018ca",
+      "password_hash": "dec623c9b7471ace3de7fbfc554c1bb7051c0c3795a5d45232e74bc4bb87b917"
+    },
+    {
+      "username": "birim",
+      "full_name": "Birim Yetkilisi",
+      "role": "birim_yetkilisi",
+      "is_active": true,
+      "created_at": "2026-07-06T07:17:44",
+      "salt": "72938931561f1b50eff9f42627d70081",
+      "password_hash": "2011ba0a86f96a7f166527ea1fa2e957abedd2d36a76242691b1c99dd6d50865"
+    },
+    {
+      "username": "onayci",
+      "full_name": "Onay Yetkilisi",
+      "role": "onayci",
+      "is_active": true,
+      "created_at": "2026-07-06T07:17:44",
+      "salt": "cdd7db7063fdf2519615c3c2d16f689f",
+      "password_hash": "c5f78d163be20d2028dd435e59041401f54d9e7c50cae50a7462e6daaf734d43"
+    },
+    {
+      "username": "viewer",
+      "full_name": "Görüntüleyen Kullanıcı",
+      "role": "viewer",
+      "is_active": true,
+      "created_at": "2026-07-06T07:17:44",
+      "salt": "d809390951dbc0ba67557112e61f0b90",
+      "password_hash": "f923f44fef795fb0ebd6ba3b3f48d76a2bb6a6353010cae07736dcb8730e1340"
+    }
+  ]
+}
