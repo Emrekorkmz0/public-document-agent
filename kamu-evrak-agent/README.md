@@ -98,4 +98,4 @@ Veritabanı:
 outputs/database/kamu_evrak_agent.sqlite3
 ```
 
-MVP-15 hâlâ Streamlit tabanlıdır. Sonraki ürünleşme adımı güvenlik, KVKK ve audit log politikasını güçlendirmektir.
+
