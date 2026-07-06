@@ -1,18 +1,27 @@
-# Kamu Evrak ve Yazışma Agent Sistemi — MVP-15
+🚀 Kamu Evrak ve Yazışma Süreçleri İçin Akıllı Agent Destek Sistemi geliştiriyoruz.
 
-Bu sürümde MVP-14 kurumsal veri katmanı korunmuştur. Ek olarak ürünleşme yolunda **EBYS benzeri iş akışı ve onay süreci** eklenmiştir.
+Kamu kurumlarında evrak inceleme, sınıflandırma, yönlendirme, resmi yazı taslaklama ve arşivleme süreçleri çoğu zaman manuel ilerleyen, zaman alan ve hata riskine açık iş akışlarından oluşuyor.
 
-## Yeni Özellikler
+Bu ihtiyaca yönelik olarak geliştirdiğimiz sistem; LLM tabanlı agent mimarisi, RAG destekli bilgi erişimi, çok aşamalı analiz mekanizması ve insan onaylı iş akışı ile kamu evrak süreçlerini daha hızlı, izlenebilir ve güvenli hale getirmeyi hedefliyor.
 
-- İş Akışı / Onay Paneli eklendi.
-- Analiz sonucu tek butonla iş akışına aktarılabilir.
-- Evrak durumları EBYS mantığına göre takip edilir.
-- Rol bazlı durum geçişleri eklendi.
-- Birim yetkilisi inceleme notu girebilir.
-- Onay yetkilisi taslağı onaylayabilir, revizyona gönderebilir veya reddedebilir.
-- İş akışı geçmişi tutulur.
-- İş akışı kayıtları JSON, CSV ve ZIP olarak dışa aktarılabilir.
-- İş akışı taslağı tekrar DOCX olarak indirilebilir.
+Sistem şu anda;
+
+✅ Evrak metni çıkarma ve analiz
+✅ RAG tabanlı mevzuat, şablon ve birim görev tanımı eşleştirme
+✅ Evrak türü sınıflandırma
+✅ Eksik bilgi ve risk tespiti
+✅ Birim yönlendirme önerisi
+✅ Resmî yazı taslağı oluşturma
+✅ DOCX çıktı alma
+✅ Arşiv ve geçmiş kaydı
+✅ Test/değerlendirme paneli
+✅ Kullanıcı rolleri ve yetkilendirme
+✅ EBYS benzeri onay akışı
+✅ KVKK odaklı maskeleme ve audit log
+
+gibi modüllerle çalışır hale getirildi.
+
+Bu projede fine-tuning yerine kaynak kontrollü RAG yaklaşımını tercih ettik. Böylece sistemin kararları mevzuat, kurum şablonları ve birim görev tanımları gibi güncellenebilir kaynaklara dayandırılıyor. Bu yaklaşım, kamu süreçlerinde ihtiyaç duyulan güvenilirlik, açıklanabilirlik ve kontrol edilebilirlik açısından daha sağlıklı bir yapı sunuyor.
 
 ## İş Akışı Durumları
 
