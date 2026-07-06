@@ -51,7 +51,7 @@ Reddedildi
 ## Çalıştırma
 
 ```bash
-cd kamu-evrak-agent_v15
+cd kamu-evrak-agent
 venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
