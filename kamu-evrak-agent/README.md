@@ -108,3 +108,13 @@ outputs/database/kamu_evrak_agent.sqlite3
 ```
 
 
+<img width="1600" height="498" alt="WhatsApp Image 2026-07-06 at 10 55 51" src="https://github.com/user-attachments/assets/fd2aa82d-bfd5-494f-b748-2c660f8bc07b" />
+<img width="1600" height="759" alt="WhatsApp Image 2026-07-06 at 10 55 28" src="https://github.com/user-attachments/assets/41d7e72f-b072-4308-bd5f-af900867db8c" />
+<img width="1600" height="758" alt="WhatsApp Image 2026-07-06 at 10 54 50" src="https://github.com/user-attachments/assets/b40961ec-37c0-401f-8cf1-8a0b22ac723f" />
+<img width="1600" height="855" alt="WhatsApp Image 2026-07-06 at 10 53 25" src="https://github.com/user-attachments/assets/5af173f5-1827-4666-bae1-5907e6e895df" />
+<img width="1132" height="749" alt="WhatsApp Image 2026-07-06 at 10 57 40" src="https://github.com/user-attachments/assets/956bd8e7-7530-46c4-9925-0be7976a0b1d" />
+
+
+
+
+
